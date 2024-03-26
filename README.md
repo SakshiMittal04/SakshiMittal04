@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Sakshi Mittal</h1>
-<div align="center"> <img src="https://github.com/SakshiMittal04/SakshiMittal04/blob/main/github%20banner.png"> </div>
-<h3 align="center">Enthusiastic and dedicated Computer Science student passionate about exploring the dynamic world of technology</h3>
+
+<h3 align="center">An Enthusiastic and dedicated Computer Science student passionate about exploring the dynamic world of technology</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakshiMittal04](https://github.com/SakshiMittal04)
 
